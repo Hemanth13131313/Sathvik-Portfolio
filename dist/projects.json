@@ -1,0 +1,1116 @@
+[
+  {
+    "id": "sakura",
+    "title": "Sakura Teahouse",
+    "category": "Game art",
+    "tagline": "A quiet world after dark.",
+    "description": "A Japanese-inspired environment with timber architecture, warm lanterns and flowering trees. The supplied work includes a final render, modelling views and a short camera animation.",
+    "images": [
+      {
+        "src": "assets/sakura-0.webp",
+        "label": "Final environment render",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "assets/sakura-1.webp",
+        "label": "Sakura Teahouse  Moonlit Night Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/sakura-2.webp",
+        "label": "Model construction view",
+        "width": 955,
+        "height": 932
+      },
+      {
+        "src": "assets/sakura-3.webp",
+        "label": "Material assignment view",
+        "width": 1121,
+        "height": 746
+      }
+    ],
+    "cover": "assets/sakura-cover.webp",
+    "video": "assets/sakura-film.mp4"
+  },
+  {
+    "id": "tractor",
+    "title": "Little tractor, big character",
+    "category": "Game art",
+    "tagline": "A study in playful proportions.",
+    "description": "A stylised yellow tractor explored through clay renders, turnaround views and material breakdowns. The broad forms and contrasting wheels give the vehicle its character.",
+    "images": [
+      {
+        "src": "assets/tractor-0.webp",
+        "label": "Low-Poly Yellow and Black Tractor",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-1.webp",
+        "label": "Low-Poly Clay Tractor Render",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-2.webp",
+        "label": "Low-Poly Gray Tractor Clay Render",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-3.webp",
+        "label": "Low-Poly Gray Tractor Render",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-4.webp",
+        "label": "Low-Poly Tractor Showcase",
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "src": "assets/tractor-5.webp",
+        "label": "Low-Poly Tractor Turnaround Sheet",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-6.webp",
+        "label": "Low-Poly Tractor Turntable Showcase",
+        "width": 2196,
+        "height": 716
+      },
+      {
+        "src": "assets/tractor-7.webp",
+        "label": "Low-Poly Yellow Tractor Render (1)",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-8.webp",
+        "label": "Low-Poly Yellow Tractor Render",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-9.webp",
+        "label": "Monochrome Low-Poly Tractor Render",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-10.webp",
+        "label": "Toy-Like Yellow Tractor Render",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/tractor-11.webp",
+        "label": "Tractor Texture Map Comparison Sheet",
+        "width": 1983,
+        "height": 793
+      }
+    ],
+    "cover": "assets/tractor-cover.webp"
+  },
+  {
+    "id": "sword",
+    "title": "Cyan Core",
+    "category": "Game art",
+    "tagline": "An energy sword with a luminous edge.",
+    "description": "A futuristic prop study combining a cyan energy core with a dark mechanical hilt. The presentation includes material breakdowns and multiple views.",
+    "images": [
+      {
+        "src": "assets/sword-0.webp",
+        "label": "Futuristic Cyan Core Energy Sword",
+        "width": 2170,
+        "height": 725
+      },
+      {
+        "src": "assets/sword-1.webp",
+        "label": "Futuristic Energy Sword Material Breakdown",
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "src": "assets/sword-2.webp",
+        "label": "Futuristic Energy Sword Turnaround",
+        "width": 2170,
+        "height": 725
+      }
+    ],
+    "cover": "assets/sword-cover.webp"
+  },
+  {
+    "id": "forge",
+    "title": "FORGE",
+    "category": "UI / UX",
+    "tagline": "Fitness, focus and momentum.",
+    "description": "A mobile app concept that brings workout planning, exercise guidance, nutrition and coaching into one focused experience. The design explores a clear loop: plan, train, fuel and review.",
+    "images": [
+      {
+        "src": "assets/forge-0.webp",
+        "label": "Forge Fitness App Promotional Collage",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/forge-1.webp",
+        "label": "Coach Chat",
+        "width": 390,
+        "height": 1083
+      },
+      {
+        "src": "assets/forge-2.webp",
+        "label": "Daily Plan Dashboard",
+        "width": 390,
+        "height": 1603
+      },
+      {
+        "src": "assets/forge-3.webp",
+        "label": "Exercise Detail  Goblet Squat",
+        "width": 390,
+        "height": 1362
+      },
+      {
+        "src": "assets/forge-4.webp",
+        "label": "Exercise Detail  Refined Muscle Map",
+        "width": 390,
+        "height": 1838
+      },
+      {
+        "src": "assets/forge-5.webp",
+        "label": "FORGE Fitness App Gym Mockup Collection",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/forge-6.webp",
+        "label": "FORGE Home",
+        "width": 390,
+        "height": 1523
+      },
+      {
+        "src": "assets/forge-7.webp",
+        "label": "FORGE Nutrition App Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/forge-8.webp",
+        "label": "Forge Workout App Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/forge-9.webp",
+        "label": "Muscle Map Explorer",
+        "width": 390,
+        "height": 1142
+      },
+      {
+        "src": "assets/forge-10.webp",
+        "label": "Nutrition Tracker",
+        "width": 390,
+        "height": 1930
+      },
+      {
+        "src": "assets/forge-11.webp",
+        "label": "Workout Complete  Neon Fitness Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/forge-12.webp",
+        "label": "Workout Library",
+        "width": 390,
+        "height": 1726
+      },
+      {
+        "src": "assets/forge-13.webp",
+        "label": "Workout Summary",
+        "width": 390,
+        "height": 1393
+      }
+    ],
+    "cover": "assets/forge-cover.webp",
+    "document": "assets/forge-case-study.pdf"
+  },
+  {
+    "id": "europa",
+    "title": "Europa Europa",
+    "category": "Branding",
+    "tagline": "An identity made for the night.",
+    "description": "An electronic music festival identity expressed through cosmic imagery, typography, passes, posters and environmental applications.",
+    "images": [
+      {
+        "src": "assets/europa-0.webp",
+        "label": "Europa Europa Electronic Music Festival",
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "src": "assets/europa-1.webp",
+        "label": "Cosmic Europa Festival Artist Pass",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/europa-2.webp",
+        "label": "Europa Electronic Festival Billboard",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/europa-3.webp",
+        "label": "Europa Europa Festival Brand Board (1)",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/europa-4.webp",
+        "label": "Europa Europa Festival Branding Moodboard",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/europa-5.webp",
+        "label": "Europa Europa Festival Pass Collage",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/europa-6.webp",
+        "label": "Europa Europa Logo Design Process",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/europa-7.webp",
+        "label": "Europa Europa Typography System",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/europa-8.webp",
+        "label": "Europa Festival Neon Passes",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/europa-9.webp",
+        "label": "Europa Neon Festival Colour Palette",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/europa-10.webp",
+        "label": "Europa  A Brighter Future Festival",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/europa-11.webp",
+        "label": "Europa Europa — artwork 12",
+        "width": 1880,
+        "height": 941
+      }
+    ],
+    "cover": "assets/europa-cover.webp"
+  },
+  {
+    "id": "taj",
+    "title": "Taj Mahal Tea House",
+    "category": "Packaging",
+    "tagline": "Three places. One collection.",
+    "description": "A personal packaging redesign exploring premium tea tins inspired by Jaipur, Kashmir and Mumbai. The concept uses regional imagery to give each variant a distinct character.",
+    "images": [
+      {
+        "src": "assets/taj-0.webp",
+        "label": "Heritage Tea House Collection",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/taj-1.webp",
+        "label": "Taj Mahal Tea House  A Journey Through India",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/taj-2.webp",
+        "label": "Taj Mahal Tea House  Journey Through India",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/taj-3.webp",
+        "label": "jaipur back",
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "src": "assets/taj-4.webp",
+        "label": "jaipur full front",
+        "width": 1080,
+        "height": 1456
+      },
+      {
+        "src": "assets/taj-5.webp",
+        "label": "jaipur full",
+        "width": 1080,
+        "height": 1456
+      },
+      {
+        "src": "assets/taj-6.webp",
+        "label": "Taj Mahal Tea House — artwork 07",
+        "width": 1122,
+        "height": 1402
+      },
+      {
+        "src": "assets/taj-7.webp",
+        "label": "kashmir bacj kfy",
+        "width": 1081,
+        "height": 1455
+      },
+      {
+        "src": "assets/taj-8.webp",
+        "label": "kashmir front",
+        "width": 1080,
+        "height": 1456
+      },
+      {
+        "src": "assets/taj-9.webp",
+        "label": "kashmir full n",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/taj-10.webp",
+        "label": "mumbai  full",
+        "width": 1080,
+        "height": 1456
+      },
+      {
+        "src": "assets/taj-11.webp",
+        "label": "mumbai  package",
+        "width": 1406,
+        "height": 1119
+      },
+      {
+        "src": "assets/taj-12.webp",
+        "label": "mumbai full",
+        "width": 1083,
+        "height": 1452
+      },
+      {
+        "src": "assets/taj-13.webp",
+        "label": "mumbai package back",
+        "width": 1449,
+        "height": 1086
+      }
+    ],
+    "cover": "assets/taj-cover.webp"
+  },
+  {
+    "id": "lumiere",
+    "title": "Lumière",
+    "category": "UI / UX",
+    "tagline": "A considered space for considered purchases.",
+    "description": "A furniture e-commerce interface exploring discovery, collections, product detail, cart and checkout. The accompanying case study reviews clarity, confidence and the shopping journey.",
+    "images": [
+      {
+        "src": "assets/lumiere-0.webp",
+        "label": "Lumière Workspace  Curated Rest",
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "src": "assets/lumiere-1.webp",
+        "label": "LUMIÈRE Elysian Bed Product Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/lumiere-2.webp",
+        "label": "Lumière Bedscape Workspace",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/lumiere-3.webp",
+        "label": "Lumière Cart Drawer",
+        "width": 1322,
+        "height": 1100
+      },
+      {
+        "src": "assets/lumiere-4.webp",
+        "label": "Lumière Cart in a Sunlit Interior",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/lumiere-5.webp",
+        "label": "Lumière Checkout in a Serene Interior",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/lumiere-6.webp",
+        "label": "Lumière Checkout",
+        "width": 1280,
+        "height": 1165
+      },
+      {
+        "src": "assets/lumiere-7.webp",
+        "label": "Lumière Collections",
+        "width": 1280,
+        "height": 2433
+      },
+      {
+        "src": "assets/lumiere-8.webp",
+        "label": "Lumière Landing Page",
+        "width": 1280,
+        "height": 2542
+      },
+      {
+        "src": "assets/lumiere-9.webp",
+        "label": "Lumière Product Detail",
+        "width": 1280,
+        "height": 2654
+      }
+    ],
+    "cover": "assets/lumiere-cover.webp",
+    "document": "assets/lumiere-case-study.pdf"
+  },
+  {
+    "id": "apparel",
+    "title": "Wear your world",
+    "category": "Visual design",
+    "tagline": "Graphic stories, off the screen.",
+    "description": "A collection of apparel graphics and presentation mockups, including anime-inspired hoodies and expressive animal illustrations.",
+    "images": [
+      {
+        "src": "assets/apparel-0.webp",
+        "label": "Neon Tiger SAKES Apparel Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/apparel-1.webp",
+        "label": "Anime Streetwear Hoodie Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/apparel-2.webp",
+        "label": "Monochrome Anime Hoodie Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/apparel-3.webp",
+        "label": "Monochrome Hat-Tipping Hoodie Lookbook",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/apparel-4.webp",
+        "label": "back hoodie 1",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/apparel-5.webp",
+        "label": "front hoddie",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "assets/apparel-6.webp",
+        "label": "front hoddie2",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/apparel-7.webp",
+        "label": "Wear your world — artwork 08",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/apparel-8.webp",
+        "label": "Wear your world — artwork 09",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/apparel-9.webp",
+        "label": "t-shirt b",
+        "width": 1122,
+        "height": 1402
+      },
+      {
+        "src": "assets/apparel-10.webp",
+        "label": "Wear your world — artwork 11",
+        "width": 1122,
+        "height": 1402
+      }
+    ],
+    "cover": "assets/apparel-cover.webp"
+  },
+  {
+    "id": "flippy",
+    "title": "Flippy AI",
+    "category": "UI / UX",
+    "tagline": "Making comparison easier.",
+    "description": "A concept for an AI-assisted shopping experience, exploring conversational discovery, product comparisons and alternatives within a Flipkart-inspired interface.",
+    "images": [
+      {
+        "src": "assets/flippy-0.webp",
+        "label": "Flipkart AI Smartphone Showdown",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/flippy-1.webp",
+        "label": "Flipkart AI - Product Comparison & Smart Recommendation Hub",
+        "width": 1284,
+        "height": 2493
+      },
+      {
+        "src": "assets/flippy-2.webp",
+        "label": "Flipkart AI - Same Price Smart Alternatives & Recommendations",
+        "width": 1284,
+        "height": 2491
+      },
+      {
+        "src": "assets/flippy-3.webp",
+        "label": "Flipkart AI Shopping Assistant - Discovery & Chat Overlay",
+        "width": 1297,
+        "height": 1322
+      },
+      {
+        "src": "assets/flippy-4.webp",
+        "label": "Flipkart Smart Alternatives Workspace",
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "src": "assets/flippy-5.webp",
+        "label": "Pastel Workspace with Flipkart AI Smartphone Comparison",
+        "width": 1536,
+        "height": 1024
+      }
+    ],
+    "cover": "assets/flippy-cover.webp",
+    "document": "assets/flippy-case-study.pdf"
+  },
+  {
+    "id": "havenly",
+    "title": "Havenly",
+    "category": "UI / UX",
+    "tagline": "A home for your next home.",
+    "description": "A furniture shopping app concept with home discovery, product browsing, product details and cart screens, presented through mobile interface designs and mockups.",
+    "images": [
+      {
+        "src": "assets/havenly-0.webp",
+        "label": "Havenly Home Decor App Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/havenly-1.webp",
+        "label": "Havenly — artwork 02",
+        "width": 430,
+        "height": 2624
+      },
+      {
+        "src": "assets/havenly-2.webp",
+        "label": "Cart - Havenly",
+        "width": 430,
+        "height": 2828
+      },
+      {
+        "src": "assets/havenly-3.webp",
+        "label": "Hand and iPhone 16 Pro",
+        "width": 1322,
+        "height": 991
+      },
+      {
+        "src": "assets/havenly-4.webp",
+        "label": "Haven Lounger - Havenly",
+        "width": 430,
+        "height": 1498
+      },
+      {
+        "src": "assets/havenly-5.webp",
+        "label": "Havenly Home Decor App Mockup",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/havenly-6.webp",
+        "label": "Nothing Phone 1",
+        "width": 1322,
+        "height": 991
+      },
+      {
+        "src": "assets/havenly-7.webp",
+        "label": "Shop Living Room - Havenly",
+        "width": 414,
+        "height": 1376
+      },
+      {
+        "src": "assets/havenly-8.webp",
+        "label": "Havenly — artwork 09",
+        "width": 602,
+        "height": 729
+      },
+      {
+        "src": "assets/havenly-9.webp",
+        "label": "Havenly — artwork 10",
+        "width": 390,
+        "height": 938
+      },
+      {
+        "src": "assets/havenly-10.webp",
+        "label": "iPhone 12 Pro",
+        "width": 877,
+        "height": 658
+      },
+      {
+        "src": "assets/havenly-11.webp",
+        "label": "iPhone 13 Pro",
+        "width": 549,
+        "height": 679
+      },
+      {
+        "src": "assets/havenly-12.webp",
+        "label": "iPhone 14",
+        "width": 1322,
+        "height": 991
+      },
+      {
+        "src": "assets/havenly-13.webp",
+        "label": "iPhone 16 Pro",
+        "width": 1322,
+        "height": 991
+      }
+    ],
+    "cover": "assets/havenly-cover.webp"
+  },
+  {
+    "id": "nexus",
+    "title": "Nexus Admin",
+    "category": "UI / UX",
+    "tagline": "Everyday operations, organised.",
+    "description": "An administration dashboard study covering overview metrics, inventory, order tracking and customer profiles.",
+    "images": [
+      {
+        "src": "assets/nexus-0.webp",
+        "label": "Nexus Admin - Dashboard Overview",
+        "width": 1282,
+        "height": 1312
+      },
+      {
+        "src": "assets/nexus-1.webp",
+        "label": "Nexus Admin — artwork 02",
+        "width": 1280,
+        "height": 1452
+      },
+      {
+        "src": "assets/nexus-2.webp",
+        "label": "Nexus Admin - Customer Profiles",
+        "width": 1282,
+        "height": 1025
+      },
+      {
+        "src": "assets/nexus-3.webp",
+        "label": "Nexus Admin - Inventory Management",
+        "width": 1282,
+        "height": 1025
+      },
+      {
+        "src": "assets/nexus-4.webp",
+        "label": "Nexus Admin - Order Tracking",
+        "width": 1280,
+        "height": 1042
+      }
+    ],
+    "cover": "assets/nexus-cover.webp"
+  },
+  {
+    "id": "mediglass",
+    "title": "MediGlass",
+    "category": "UI / UX",
+    "tagline": "Clarity across a shopping journey.",
+    "description": "A medical-commerce interface study with a homepage, catalogue, cart, checkout and provider dashboard.",
+    "images": [
+      {
+        "src": "assets/mediglass-0.webp",
+        "label": "MediGlass   Home Redesign",
+        "width": 1360,
+        "height": 1967
+      },
+      {
+        "src": "assets/mediglass-1.webp",
+        "label": "MediGlass   Catalogxx",
+        "width": 1360,
+        "height": 1123
+      },
+      {
+        "src": "assets/mediglass-2.webp",
+        "label": "MediGlass   Checkout",
+        "width": 1360,
+        "height": 1053
+      },
+      {
+        "src": "assets/mediglass-3.webp",
+        "label": "MediGlass   Provider Dashboard",
+        "width": 1360,
+        "height": 1047
+      },
+      {
+        "src": "assets/mediglass-4.webp",
+        "label": "MediGlass   Your Cart",
+        "width": 1360,
+        "height": 1104
+      }
+    ],
+    "cover": "assets/mediglass-cover.webp"
+  },
+  {
+    "id": "archive",
+    "title": "ARCHIVE",
+    "category": "UI / UX",
+    "tagline": "An editorial approach to fashion.",
+    "description": "A dark fashion-commerce interface with collection browsing, product detail, cart and account screens.",
+    "images": [
+      {
+        "src": "assets/archive-0.webp",
+        "label": "MacBook Air (2022)342",
+        "width": 1440,
+        "height": 1125
+      },
+      {
+        "src": "assets/archive-1.webp",
+        "label": "Account Login (Dark) - ARCHIVE",
+        "width": 1280,
+        "height": 1022
+      },
+      {
+        "src": "assets/archive-2.webp",
+        "label": "Cart Drawer (Dark) - ARCHIVE",
+        "width": 1304,
+        "height": 1104
+      },
+      {
+        "src": "assets/archive-3.webp",
+        "label": "Category Home (Dark) - ARCHIVE",
+        "width": 1439,
+        "height": 2054
+      },
+      {
+        "src": "assets/archive-4.webp",
+        "label": "Landing Page (Dark) - ARCHIVE",
+        "width": 1280,
+        "height": 3583
+      },
+      {
+        "src": "assets/archive-5.webp",
+        "label": "MacBook #13",
+        "width": 702,
+        "height": 527
+      },
+      {
+        "src": "assets/archive-6.webp",
+        "label": "MacBook Air (15 inch)",
+        "width": 1284,
+        "height": 1037
+      },
+      {
+        "src": "assets/archive-7.webp",
+        "label": "MacBook Air (2022)",
+        "width": 1235,
+        "height": 1125
+      },
+      {
+        "src": "assets/archive-8.webp",
+        "label": "Product Detail (Dark) - ARCHIVE",
+        "width": 1280,
+        "height": 2535
+      },
+      {
+        "src": "assets/archive-9.webp",
+        "label": "Shopping Cart (Dark) - ARCHIVE",
+        "width": 1280,
+        "height": 1380
+      },
+      {
+        "src": "assets/archive-10.webp",
+        "label": "iMac 24 inch",
+        "width": 744,
+        "height": 626
+      }
+    ],
+    "cover": "assets/archive-cover.webp"
+  },
+  {
+    "id": "aira",
+    "title": "Aira Studio",
+    "category": "Branding",
+    "tagline": "A mark with an orbit of its own.",
+    "description": "A geometric identity study, from the construction of the A-shaped mark to its applications in studio signage and merchandise.",
+    "images": [
+      {
+        "src": "assets/aira-0.webp",
+        "label": "Aira Studio Galactic Brand Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/aira-1.webp",
+        "label": "3a605f86fc3ff8b827144b60da9701e8",
+        "width": 736,
+        "height": 736
+      },
+      {
+        "src": "assets/aira-2.webp",
+        "label": "Five-Step Geometric A Logo Process",
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "src": "assets/aira-3.webp",
+        "label": "white logo",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "cover": "assets/aira-cover.webp"
+  },
+  {
+    "id": "kaltika",
+    "title": "Kaltika",
+    "category": "Branding",
+    "tagline": "A sharp identity for a game studio.",
+    "description": "A game-studio branding exploration featuring an angular monogram, wordmark construction and branded applications.",
+    "images": [
+      {
+        "src": "assets/kaltika-0.webp",
+        "label": "KALTIKA Game Studio Branding Showcase (1)",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/kaltika-1.webp",
+        "label": "KALTIKA Logo Design Process Board",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/kaltika-2.webp",
+        "label": "Kaltika — artwork 03",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "cover": "assets/kaltika-cover.webp"
+  },
+  {
+    "id": "coffee",
+    "title": "Iced Coffee Collection",
+    "category": "Packaging",
+    "tagline": "A fresh look for a familiar ritual.",
+    "description": "A personal Nestlé iced-coffee packaging redesign exploring five flavour variants, label layouts and product presentation.",
+    "images": [
+      {
+        "src": "assets/coffee-0.webp",
+        "label": "Nestlé Iced Coffee Flavor Collection-1",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/coffee-1.webp",
+        "label": "Iced Coffee Collection — artwork 02",
+        "width": 1098,
+        "height": 1433
+      },
+      {
+        "src": "assets/coffee-2.webp",
+        "label": "Iced Coffee Collection — artwork 03",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/coffee-3.webp",
+        "label": "Iced Coffee Collection — artwork 04",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/coffee-4.webp",
+        "label": "Iced Coffee Collection — artwork 05",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "assets/coffee-5.webp",
+        "label": "Iced Coffee Collection — artwork 06",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/coffee-6.webp",
+        "label": "Iced Coffee Collection — artwork 07",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "assets/coffee-7.webp",
+        "label": "Iced Coffee Collection — artwork 08",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/coffee-8.webp",
+        "label": "Nestlé Iced Coffee Flavor Collection-2",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/coffee-9.webp",
+        "label": "Nestlé Iced Coffee Flavor Showcase",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/coffee-10.webp",
+        "label": "Untitled-2",
+        "width": 743,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-11.webp",
+        "label": "Iced Coffee Collection — artwork 12",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-12.webp",
+        "label": "Iced Coffee Collection — artwork 13",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-13.webp",
+        "label": "Iced Coffee Collection — artwork 14",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-14.webp",
+        "label": "Iced Coffee Collection — artwork 15",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-15.webp",
+        "label": "Iced Coffee Collection — artwork 16",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-16.webp",
+        "label": "Iced Coffee Collection — artwork 17",
+        "width": 743,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-17.webp",
+        "label": "Iced Coffee Collection — artwork 18",
+        "width": 743,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-18.webp",
+        "label": "Iced Coffee Collection — artwork 19",
+        "width": 743,
+        "height": 1080
+      },
+      {
+        "src": "assets/coffee-19.webp",
+        "label": "Iced Coffee Collection — artwork 20",
+        "width": 743,
+        "height": 1080
+      }
+    ],
+    "cover": "assets/coffee-cover.webp"
+  },
+  {
+    "id": "chocos",
+    "title": "Chocos Fills",
+    "category": "Packaging",
+    "tagline": "Playful packaging, clear information.",
+    "description": "A personal Kellogg’s Chocos Fills packaging redesign exploring mascot-led storytelling, shelf visibility and front-to-back information hierarchy.",
+    "images": [
+      {
+        "src": "assets/chocos-0.webp",
+        "label": "Kellogg’s Chocos Fills Packaging Collage",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/chocos-1.webp",
+        "label": "Kellogg’s Chocos Fills Pouch Back Panel",
+        "width": 1158,
+        "height": 1358
+      },
+      {
+        "src": "assets/chocos-2.webp",
+        "label": "Kellogg’s Multigrain Chocos Fills Pouch",
+        "width": 1159,
+        "height": 1358
+      }
+    ],
+    "cover": "assets/chocos-cover.webp"
+  },
+  {
+    "id": "graphics",
+    "title": "Visual notes",
+    "category": "Visual design",
+    "tagline": "Posters, promotions and playful details.",
+    "description": "A selection of graphic-design work including promotional posts, an event menu and a certificate layout.",
+    "images": [
+      {
+        "src": "assets/graphics-0.webp",
+        "label": "Kids’ Fair Menu and Prize Wheel",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/graphics-1.webp",
+        "label": "Visual notes — artwork 02",
+        "width": 1054,
+        "height": 1492
+      },
+      {
+        "src": "assets/graphics-2.webp",
+        "label": "jgs temp-1",
+        "width": 3579,
+        "height": 2551
+      },
+      {
+        "src": "assets/graphics-3.webp",
+        "label": "social media post",
+        "width": 1684,
+        "height": 2528
+      }
+    ],
+    "cover": "assets/graphics-cover.webp"
+  }
+]
