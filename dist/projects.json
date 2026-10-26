@@ -237,7 +237,81 @@
       }
     ],
     "cover": "assets/forge-cover.webp",
-    "document": "assets/forge-case-study.pdf"
+    "document": "assets/forge-case-study.pdf",
+    "caseStudyPages": [
+      {
+        "src": "assets/forge-case-page-1.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 1"
+      },
+      {
+        "src": "assets/forge-case-page-2.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 2"
+      },
+      {
+        "src": "assets/forge-case-page-3.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 3"
+      },
+      {
+        "src": "assets/forge-case-page-4.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 4"
+      },
+      {
+        "src": "assets/forge-case-page-5.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 5"
+      },
+      {
+        "src": "assets/forge-case-page-6.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 6"
+      },
+      {
+        "src": "assets/forge-case-page-7.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 7"
+      },
+      {
+        "src": "assets/forge-case-page-8.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 8"
+      },
+      {
+        "src": "assets/forge-case-page-9.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 9"
+      },
+      {
+        "src": "assets/forge-case-page-10.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 10"
+      },
+      {
+        "src": "assets/forge-case-page-11.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 11"
+      },
+      {
+        "src": "assets/forge-case-page-12.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "FORGE case study, page 12"
+      }
+    ]
   },
   {
     "id": "europa",
@@ -484,7 +558,105 @@
       }
     ],
     "cover": "assets/lumiere-cover.webp",
-    "document": "assets/lumiere-case-study.pdf"
+    "document": "assets/lumiere-case-study.pdf",
+    "caseStudyPages": [
+      {
+        "src": "assets/lumiere-case-page-1.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 1"
+      },
+      {
+        "src": "assets/lumiere-case-page-2.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 2"
+      },
+      {
+        "src": "assets/lumiere-case-page-3.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 3"
+      },
+      {
+        "src": "assets/lumiere-case-page-4.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 4"
+      },
+      {
+        "src": "assets/lumiere-case-page-5.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 5"
+      },
+      {
+        "src": "assets/lumiere-case-page-6.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 6"
+      },
+      {
+        "src": "assets/lumiere-case-page-7.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 7"
+      },
+      {
+        "src": "assets/lumiere-case-page-8.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 8"
+      },
+      {
+        "src": "assets/lumiere-case-page-9.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 9"
+      },
+      {
+        "src": "assets/lumiere-case-page-10.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 10"
+      },
+      {
+        "src": "assets/lumiere-case-page-11.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 11"
+      },
+      {
+        "src": "assets/lumiere-case-page-12.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 12"
+      },
+      {
+        "src": "assets/lumiere-case-page-13.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 13"
+      },
+      {
+        "src": "assets/lumiere-case-page-14.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 14"
+      },
+      {
+        "src": "assets/lumiere-case-page-15.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 15"
+      },
+      {
+        "src": "assets/lumiere-case-page-16.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Lumière case study, page 16"
+      }
+    ]
   },
   {
     "id": "apparel",
@@ -607,7 +779,63 @@
       }
     ],
     "cover": "assets/flippy-cover.webp",
-    "document": "assets/flippy-case-study.pdf"
+    "document": "assets/flippy-case-study.pdf",
+    "caseStudyPages": [
+      {
+        "src": "assets/flippy-case-page-1.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 1"
+      },
+      {
+        "src": "assets/flippy-case-page-2.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 2"
+      },
+      {
+        "src": "assets/flippy-case-page-3.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 3"
+      },
+      {
+        "src": "assets/flippy-case-page-4.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 4"
+      },
+      {
+        "src": "assets/flippy-case-page-5.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 5"
+      },
+      {
+        "src": "assets/flippy-case-page-6.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 6"
+      },
+      {
+        "src": "assets/flippy-case-page-7.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 7"
+      },
+      {
+        "src": "assets/flippy-case-page-8.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 8"
+      },
+      {
+        "src": "assets/flippy-case-page-9.webp",
+        "width": 1489,
+        "height": 2105,
+        "label": "Flippy AI case study, page 9"
+      }
+    ]
   },
   {
     "id": "havenly",

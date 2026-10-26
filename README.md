@@ -28,3 +28,4 @@ The garden, avatar and tractor-like scenery were created for the website and are
 Desktop and 390px-wide browser layouts were checked during development, including walking, collectible feedback, district navigation, project dialogs and certificate rendering. Physical-phone performance and network-throttled frame-rate targets still need measurement. This is the second review version; no universal frame-rate or zero-buffering guarantee is implied.
 
 Three.js 0.180.0 is vendored locally under its MIT license. DM Sans and Manrope are requested from Google Fonts with system-font fallbacks.
+Client feedback update: supplied personal logo and portrait, replacement About copy, inline case studies before artwork for FORGE/Lumière/Flippy AI, and subtle mouse parallax in the garden overview. Reduced-motion and pause controls disable parallax.
