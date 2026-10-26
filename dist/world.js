@@ -117,9 +117,6 @@ export async function createWorld(projects,openProject,openAchievement){
  const $=s=>document.querySelector(s),keys=new Set(),visited=new Set();
  let dragging=false,pointerId=null,lastX=0,lastY=0,dragTravel=0,dirty=true,lastRender=0,elapsed=0;
  let selected=-1,flight=0,arrival=0,night=1,nightGoal=1,jumpVelocity=0,jumpHeight=0,nearest=-1;
- const pointerAim=new THREE.Vector2(),pointerFollow=new THREE.Vector2();
- hero.addEventListener('pointermove',e=>{if(e.pointerType!=='mouse'||!motion||exploring||selected>=0)return;const r=hero.getBoundingClientRect();pointerAim.set((e.clientX-r.left)/r.width*2-1,(e.clientY-r.top)/r.height*2-1);dirty=true;});
- hero.addEventListener('pointerleave',()=>{pointerAim.set(0,0);dirty=true;});
  let cameraDistance=90,cameraElevation=.75,cameraAngle=.95,lookTarget=new THREE.Vector3(-4,1,0);
  const panel=$('#district-panel'),map=$('#island-map'),toast=$('#world-toast');let toastTimer;
  function notify(text){toast.textContent=text;toast.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>toast.classList.remove('show'),3500);}
@@ -150,9 +147,7 @@ export async function createWorld(projects,openProject,openAchievement){
   if(exploring){target.lerp(new THREE.Vector3(character.position.x,1.6,character.position.z),1-Math.exp(-dt*3));}
   else if(selected<0){target.set(mobile()?0:-8,mobile()?5:1,0);}
   lookTarget.lerp(target,blend);cameraDistance=THREE.MathUtils.lerp(cameraDistance,distance,blend);cameraElevation=THREE.MathUtils.lerp(cameraElevation,elevation,blend);cameraAngle=THREE.MathUtils.lerp(cameraAngle,angle,blend);
-  if(!motion||exploring||selected>=0)pointerFollow.set(0,0);else pointerFollow.lerp(pointerAim,1-Math.exp(-dt*2.8));
-  const viewAngle=cameraAngle+pointerFollow.x*.035,viewElevation=cameraElevation-pointerFollow.y*.018;
-  desired.set(Math.sin(viewAngle)*Math.cos(viewElevation)*cameraDistance,Math.sin(viewElevation)*cameraDistance,Math.cos(viewAngle)*Math.cos(viewElevation)*cameraDistance).add(lookTarget);
+  desired.set(Math.sin(cameraAngle)*Math.cos(cameraElevation)*cameraDistance,Math.sin(cameraElevation)*cameraDistance,Math.cos(cameraAngle)*Math.cos(cameraElevation)*cameraDistance).add(lookTarget);
   // Offset the destination to the right of its editorial panel on wider screens.
   if(selected>=0&&!mobile()){const shift=new THREE.Vector3(-Math.cos(cameraAngle),0,Math.sin(cameraAngle)).multiplyScalar(4);desired.add(shift);camera.position.copy(desired);camera.lookAt(lookTarget.clone().add(shift));}
   else{camera.position.copy(desired);camera.lookAt(lookTarget);}camera.updateMatrixWorld();
